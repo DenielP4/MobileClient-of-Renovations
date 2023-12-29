@@ -4,8 +4,8 @@ Android-приложение для ведения учета и контрол�
 
 ## Серверная часть
 
-Основной сервис: https://github.com/DenielP4/Server-of-Apartment-renovation
-Сервис документооборота: https://github.com/DenielP4/GenerateDoc
+- Основной сервис: https://github.com/DenielP4/Server-of-Apartment-renovation
+- Сервис документооборота: https://github.com/DenielP4/GenerateDoc
 
 ## Функционал
 
